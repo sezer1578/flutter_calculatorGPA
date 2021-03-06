@@ -1,0 +1,4 @@
+#Mon Feb 08 23:48:03 EET 2021
+base.0=/Users/sezerozaltun/AndroidStudioProjects/Flutter/ortalama_hesaplama/ortalama_hesaplama/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
